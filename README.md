@@ -13,4 +13,4 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-This changes is made by Aradhana
+This changes is made by Aradhana in GitHub website
