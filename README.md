@@ -13,4 +13,4 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-This changes is made in neuo Lab
+This changes is made in neuroLab
